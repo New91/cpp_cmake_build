@@ -1,5 +1,4 @@
-#ifndef _CALC_H
-#define _CALC_H
+#pragma once
 class Calc
 {
     public:
@@ -8,4 +7,3 @@ class Calc
     }
 };
 
-#endif
